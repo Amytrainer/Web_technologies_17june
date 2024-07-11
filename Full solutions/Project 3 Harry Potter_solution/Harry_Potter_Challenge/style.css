@@ -1,3 +1,7 @@
+
+@import url('https://fonts.cdnfonts.com/css/harry-potter');
+
+                
 /* Universal selector */
 * {
   margin: 0;
@@ -5,6 +9,7 @@
 }
 
 body {
+    font-family: 'Harry Potter', sans-serif;                                      
   background-color: black;
   color: white;
 }
@@ -43,6 +48,9 @@ a {
 }
 .heading2 {
   margin-top: 9vh;
+  display: flex;
+  justify-content: center;
+
 }
 .flex-main {
   display: flex;
