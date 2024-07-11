@@ -45,3 +45,16 @@ a{
 .heading2{
     margin-top: 9vh;
 }
+.flex-main{
+    display: flex;
+    flex-direction: column;
+}
+
+.row{
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    width: 100vw;
+    justify-content: space-evenly;
+
+}
