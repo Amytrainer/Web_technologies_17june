@@ -3,7 +3,12 @@
 main-working branch
 
 ## Week 1 HTML
+### Understanding HTML
 ## Week 2 CSS
+### Examples and Properties
 ## Week 3 HTML & CSS
-## Week 4 Flexbox +JS
-
+### Project 1 Verse Landing Page
+### Project 2 Fashion Landing Page
+## Week 4 
+### Project 3 Harry Potter
+### Project 4 Newyork Animation
