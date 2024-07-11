@@ -1,3 +1,9 @@
 # Web_technologies_17june
 
-![Project 1:Verse]([https://github.com/Amytrainer/Web_technologies_17june/blob/weekly-working/Output%20Preview.jpeg])
+main-working branch
+
+## Week 1 HTML
+## Week 2 CSS
+## Week 3 HTML & CSS
+## Week 4 Flexbox +JS
+
