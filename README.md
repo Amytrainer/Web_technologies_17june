@@ -42,3 +42,19 @@ Extra Resources:
 
 # Week 6
 #### Form Validation Using JS
+
+# Extra Resources
+
+To deploy you can use this 
+### Hosting on various Mediums:
+
+### [Netlify](https://www.netlify.com/)
+### [Hostinge](https://www.hostinger.co.uk/)
+### [Fleek](https://fleek.co/)
+### [Github Pages](https://pages.github.com/)
+### [Render](https://render.com/)
+### [Surge](https://surge.sh/)
+### [Versel](https://vercel.com/)
+### [Hostman](https://hostman.com/)
+### [Glitch](https://glitch.com/)
+### [Lyrical](https://www.lyricalhost.com/)
