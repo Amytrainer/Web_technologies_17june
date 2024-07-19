@@ -39,3 +39,6 @@ Extra Resources:
 - 100 days of coding diary: https://www.amazon.co.uk/Days-Code-Journal-Holly-Boothroyd/dp/B09MYVV8R9/ref=sr_1_7?crid=1BC3LXP6LNUGP&keywords=100+days+coding+book&qid=1655321397&sprefix=100+days+coding+%2Caps%2C50&sr=8-7
 
 #### Project 5 Starbucks Clone website with JS
+
+# Week 6
+#### Form Validation Using JS
