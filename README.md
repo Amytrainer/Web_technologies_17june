@@ -12,3 +12,6 @@ main-working branch
 ## Week 4 
 ### Project 3 Harry Potter
 ### Project 4 Newyork Animation
+## Week 5
+Understanding of JS
+#### Project 5 Starbucks Clone website with JS
